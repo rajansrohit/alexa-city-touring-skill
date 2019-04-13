@@ -1,0 +1,31 @@
+getOverview more information about Dallas
+getOverview what's it like in Dallas
+getOverview tell me some facts about Dallas 
+getOverview facts about Dallas 
+getOverview overview of Dallas
+getOverview Dallas facts 
+getOverview Dallas overview
+
+getTopFiveIntent tell me the top five things 
+getTopFiveIntent top five things to do 
+getTopFiveIntent give me the top five 
+getTopFiveIntent the top five
+getTopFiveIntent top five
+getTopFiveIntent the top five things to do
+
+getAttractionIntent tell me a good attraction 
+getAttractionIntent where should I go
+getAttractionIntent an attraction
+getAttractionIntent attractions 
+
+getMoreInfoIntent open number {attraction}
+getMoreInfoIntent number {attraction}
+getMoreInfoIntent {attraction}
+
+getNewsIntent tell me the local news
+getNewsIntent what is the latest news 
+getNewsIntent the local news
+getNewsIntent the latest news 
+getNewsIntent the news
+getNewsIntent news
+getNewsIntent local news
