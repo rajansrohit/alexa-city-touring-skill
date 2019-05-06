@@ -3,4 +3,4 @@ A virtual tour assistant that aides in planning for a trip to a place, specifica
 
 Must download Node dependencies through NPM in src directory
 
-Code explanation coming soon
+Code explanation coming soon. Written in JS and hosted in AWS Lambda.
