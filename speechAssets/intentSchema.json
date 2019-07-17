@@ -11,5 +11,6 @@
     { "intent": "AMAZON.StopIntent", "slots": [] },
     { "intent": "AMAZON.CancelIntent", "slots": [] }, 
     { "intent": "AMAZON.RepeatIntent", "slots": [] }
+    { "name": "attraction", "type": "AMAZON.NUMBER" }
   ]  
 }
