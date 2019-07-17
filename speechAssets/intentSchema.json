@@ -3,7 +3,7 @@
     { "intent": "getOverview", "slots": [] },  
     { "intent": "getTopFiveIntent", "slots": [] },  
     { "intent": "getAttractionIntent", "slots": [] },  
-    { "intent": "getMoreInfoIntent", "slots": [] },  
+    { "intent": "getMoreInfoIntent", "slots": [{ "name": "attraction", "type": "AMAZON.NUMBER" }] },  
     { "intent": "getNewsIntent", "slots": [] },  
     { "intent": "AMAZON.YesIntent", "slots": [] },  
     { "intent": "AMAZON.NoIntent", "slots": [] },  
@@ -11,6 +11,5 @@
     { "intent": "AMAZON.StopIntent", "slots": [] },
     { "intent": "AMAZON.CancelIntent", "slots": [] }, 
     { "intent": "AMAZON.RepeatIntent", "slots": [] }
-    { "name": "attraction", "type": "AMAZON.NUMBER" }
   ]  
 }
