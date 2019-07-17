@@ -3,7 +3,7 @@
     { "intent": "getOverview", "slots": [] },  
     { "intent": "getTopFiveIntent", "slots": [] },  
     { "intent": "getAttractionIntent", "slots": [] },  
-    { "intent": "getMoreInfoIntent", "slots": [{ "name": "attraction", "type": "AMAZON.NUMBER" }] },  
+    { "intent": "getMoreInfoIntent", "slots": [] },  
     { "intent": "getNewsIntent", "slots": [] },  
     { "intent": "AMAZON.YesIntent", "slots": [] },  
     { "intent": "AMAZON.NoIntent", "slots": [] },  
