@@ -307,5 +307,8 @@ function httpGet(query, callback) {
         console.error(e);
 });
 }
-
+String.prototype.trunc =
+    function (n) {
+        return this.substr(0, n - 1) + (this.length > n ? '&hellip;' : '');
+    };
 
