@@ -13,7 +13,7 @@ getTopFiveIntent the top five
 getTopFiveIntent top five
 getTopFiveIntent the top five things to do
 
-getAttractionIntent tell me a good attraction 
+getAttractionIntent give me a good attraction 
 getAttractionIntent where should I go
 getAttractionIntent an attraction
 getAttractionIntent attractions 
