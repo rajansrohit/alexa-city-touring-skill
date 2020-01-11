@@ -12,7 +12,7 @@ var numberOfResults = 3;
 
 var APIKey = "4844d21f760b47359945751b9f875877";
 
-var welcomeMessage = location + " Guide. You can ask me for an attraction, the local news, or  say help. What will it be?";
+var welcomeMessage = location + " Guide. You can ask me for an attraction, the local news, or say help. What will it be?";
 
 var welcomeRepromt = "You can ask me for an attraction, the local news, or  say help. What will it be?";
 
