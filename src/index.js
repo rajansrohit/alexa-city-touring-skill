@@ -57,7 +57,7 @@ var topFive = [
     { number: "2", caption: "Get shopping at stonebriar Mall.", more: "Stonebriar Centre is a mid-range shopping mall located at the intersection of Preston Road and the Sam Rayburn Tollway in Frisco, Texas.", location: "Frisco", contact: "972 668-6255" },
     { number: "3", caption: "Earn your  wings at the Cavanaugh Flight Museum.", more: "The Cavanaugh Flight Museum is an aviation museum with a non-profit 501 status for aviation educational", location: "Addison", contact: "972 380 8800" },
     { number: "4", caption: "Breathe in the culture  at the Dallas Museum of Art.", more: "he Dallas Museum of Art (DMA) is a major art museum located in the Arts District of downtown Dallas Texas.", location: "Downtown Dallas", contact: "214 922 1200" },
-    { number: "5", caption: "Take a spins on the Texas Star.", more: "Texas Star is a Ferris wheel at Fair Park in Dallas, Texas, where it operates during the annual State Fair of Texas and is the most popular ride.", location: "South Dallas", contact: "214 426 3400" }
+    { number: "5", caption: "Take a spin on the Texas Star.", more: "Texas Star is a Ferris wheel at Fair Park in Dallas, Texas, where it operates during the annual State Fair of Texas and is the most popular ride.", location: "South Dallas", contact: "214 426 3400" }
 ];
 
 var topFiveIntro = "Here are the top five things to  do in " + location + ".";
