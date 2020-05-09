@@ -8,7 +8,7 @@ var states = {
 
 var location = "Dallas";
 
-var numberOfResults = 5;
+var numberOfResults = 3;
 
 var APIKey = "4844d21f760b47359945751b9f875877";
 
